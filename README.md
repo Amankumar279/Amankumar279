@@ -4,7 +4,7 @@
   🚀 Full-Stack Developer | 💻 Java & MERN Enthusiast
   📍 Bengaluru, India &nbsp; | &nbsp; 📧 iamankumar279@gmail.com
   📧 iamankumar279@gmail.com | 📱 +91-7988404259  
-[🔗 LinkedIn](www.linkedin.com/in/aman279) | [💻 GitHub](https://github.com/Amankumar279)
+  [🔗 LinkedIn](www.linkedin.com/in/aman279)
 </p> 
 
 ---
@@ -42,7 +42,7 @@ Data Structures & Algorithms • OOPS • DBMS
 ## 📜 Certifications
 
 - Java Programming – Infosys Springboard (2023)  
-- Web Development (HTML, CSS, JS) – Udemy (2022)  
+- Frontend Developer(React) – HackerRank [Link Text](https://www.hackerrank.com/certificates/5f5aeca46aa9)  
 - SQL Basics – CodeHelp (2022)
 
 ---
