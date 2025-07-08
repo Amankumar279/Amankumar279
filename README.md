@@ -41,9 +41,9 @@ Data Structures & Algorithms • OOPS • DBMS
 
 ## 📜 Certifications
 
-- Java Programming – Infosys Springboard (2023)  
-- Frontend Developer(React) – HackerRank [Link Text](https://www.hackerrank.com/certificates/5f5aeca46aa9)  
-- SQL Basics – CodeHelp (2022)
+- Java Programming – Infosys Springboard [Link](https://drive.google.com/file/d/1F3dT1ku266U7v3P1lUxb97inItcLe_wW/view?usp=sharing)  
+- Frontend Developer(React) – HackerRank [Link](https://www.hackerrank.com/certificates/5f5aeca46aa9)  
+- SQL (Intermediate) – HackerRank [Link](https://www.hackerrank.com/certificates/d594c15c03ed) 
 
 ---
 
