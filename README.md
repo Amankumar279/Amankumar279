@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
-<!--
-**Amankumar279/Amankumar279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full-Stack Developer | 💻 Java & MERN Enthusiast
+  📍 Bengaluru, India &nbsp; | &nbsp; 📧 iamankumar279@gmail.com
+  📧 iamankumar279@gmail.com | 📱 +91-7988404259  
+[🔗 LinkedIn](www.linkedin.com/in/aman279) | [💻 GitHub](https://github.com/Amankumar279)
+</p> 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hi, I’m **Aman Kumar**, a passionate software developer with a strong foundation in **Java**, **JavaScript**, and **full-stack web development**. I enjoy building efficient, secure, and user-friendly applications. Whether it's designing responsive UIs or implementing REST APIs, I love turning ideas into impactful solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • JavaScript • SQL • Python
+
+**Frontend:**  
+HTML5 • CSS3 • React.js
+
+**Backend:**  
+Node.js • Express.js • RESTful APIs
+
+**Database:**  
+MongoDB • MySQL • SQL
+
+**Tools & Platforms:**  
+Git • GitHub • XAMPP • Android Studio • Windows
+
+**Core Concepts:**  
+Data Structures & Algorithms • OOPS • DBMS
+
+---
+
+
+
+## 📜 Certifications
+
+- Java Programming – Infosys Springboard (2023)  
+- Web Development (HTML, CSS, JS) – Udemy (2022)  
+- SQL Basics – CodeHelp (2022)
+
+---
+
+## 🤝 Let's Connect!
+
+I’m always open to collaborating on exciting web projects or discussing system design, backend development, or Java programming.
+
+💬 Drop a message on [LinkedIn](www.linkedin.com/in/aman279) or shoot me an email at **iamankumar279@gmail.com**
+
+---
+
+⭐ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
