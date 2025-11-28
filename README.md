@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Aman Kumar</h1>
 
 <p align="center">
-  Full-Stack Developer | 💻 Java & MERN Enthusiast
+  Full-Stack Developer |  Java & MERN Enthusiast
   Bengaluru, India &nbsp; | &nbsp;
-  iamankumar279@gmail.com | 📱 +91-7988404259  
+  iamankumar279@gmail.com | +91-7988404259  
   [LinkedIn](www.linkedin.com/in/aman279)
 </p> 
 
